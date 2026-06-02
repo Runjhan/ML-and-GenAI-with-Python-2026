@@ -1,5 +1,4 @@
-#Taking student details and marks as input, calculating total and percentage,
-#  and printing a formatted report card
+#Taking student details and marks as input, calculating total and percentage,and printing a formatted report card
 
 print("Enter Student Details ")
 student_name = input("Enter Student Name: ")
